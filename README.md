@@ -1,5 +1,6 @@
 # allegro5_poc 
 
+-------------------------------------------------
 Verification steps：
 1.Get the source code of allegro5
 2.Compile the allegro5
